@@ -1,0 +1,29 @@
+A palavra teste foi removida anteriormente ou nao foi inserida.
+
+Removendo a palavra gola
+abuso, carro, doce, 
+(Nil, carro, preto, 2, abuso, doce)
+
+(carro, abuso, preto, 1, Nil, Nil)
+
+(carro, doce, preto, 1, Nil, Nil)
+
+A palavra abusado foi removida anteriormente ou nao foi inserida.
+
+abuso, bolha, carro, doce, fussura, pacote, palhaço, taturana, 
+(Nil, carro, preto, 2, abuso, palhaço)
+
+(carro, abuso, preto, 1, Nil, bolha)
+
+(abuso, bolha, vermelho, 1, Nil, Nil)
+
+(carro, palhaço, vermelho, 2, fussura, taturana)
+
+(palhaço, fussura, preto, 1, doce, pacote)
+
+(fussura, doce, vermelho, 1, Nil, Nil)
+
+(fussura, pacote, vermelho, 1, Nil, Nil)
+
+(palhaço, taturana, preto, 1, Nil, Nil)
+
